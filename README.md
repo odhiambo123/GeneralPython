@@ -1,4 +1,6 @@
-# Python:
+#Why?
+- This is my treasure Im willing to share. I have all the links 
+## Python:
 - Is general purpose programing language used for:
   - Web development server side
   - software development and workflows, data management
