@@ -1,5 +1,9 @@
-#Why?
-- This is my treasure Im willing to share. I have all the links 
+##Why?
+Because I wanted to learn...without having to rush the process. <br>
+
+This is my treasure I'm willing to share. I have included all the references for the material used here so feel free to go dig deeper and find out why your code does what it does.
+The biggest challenge we have today is finding the balance between chasing the money and producing real quality material for consumption. if you want to learn, you are going to have to find that balance and dig deeper to find meaning in what you do and what is really happening under the hood.
+
 ## Python:
 - Is general purpose programing language used for:
   - Web development server side
@@ -135,8 +139,65 @@ In this grammar featuring recursive rule, "water" is in this language
 - 
 ####Interpreter and its environment
 - source files are treated as UTF-8 by default
-- to change from  default encoding use: `-*- coding: encoding -*-`
+- to change from  default encoding use: `-*- coding: encoding -*-` replacing 'encoding' with one of the valid [codecs](https://docs.python.org/3/library/codecs.html#standard-encodings)
 - [Argument Passing](https://docs.python.org/3/tutorial/interpreter.html#argument-passing)
 - script's name and its arguments are converted into a list and stored in the `argv` variable inside the `sys`
 module `sys.argc[]`
-- 
+
+####Objects:
+- used for data abstraction in Python
+- abstraction is used as a productivity enhancer
+####Von Neumann model
+- Is a form of computer organization based on the stored-program concept, it comprises the following components:
+  - memory
+  - CPU
+  - Input
+  - Output
+  - Control unit
+- Computer systems are organized as systemic set of transformations that brings a problem described in human language to the transistors that actually execute it.
+  - you have a problem statement that explains what the issue is.
+  - You then transform that into an algorithm
+    - Procedural steps that ensure/guarantee precise execution by a computer.
+    - The procedure must eventually terminate.
+  - Algorithm is transformed into a computer program
+  - ISA is the instruction set architecture available in every computer. It is a list of all instruction that a computer can execute and different computers might have different ISA. An example of ISA is x86.
+  - A high level programming language such as Python is translated into specific ISA using a translating program called a compiler.
+  - Low level programs written in low-level computer specif assembly language is translated using assembler
+- Micro-architecture or the microprocessor architecture is a specific implementation if ISA in a given processor depending on the intended goals. For instance the x86 has been implemented slightly differently in Intel and AMD.
+- List of Intel CPU [microarchitectures](https://en.wikipedia.org/wiki/List_of_Intel_CPU_microarchitectures)
+- List of AMD [microarchitectures](https://en.wikichip.org/wiki/amd/microarchitectures)
+
+At the root of the microarchitecture is the simple [logic circuit](https://circuitverse.org/simulator). You can learn more about logic gates [here](https://www.electronics-tutorials.ws/logic/logic_1.html)
+
+It is also helpful to be have some knowledge of [binary numbers](https://www.electronics-tutorials.ws/binary/bin_1.html) and other [digital circuit Number Systems](https://drive.google.com/file/d/19G_eiyZ9HarpjZPlEYui4TGyVu4Ol_D1/view?usp=sharing)
+
+AND `output = input1 ∧ input2` both are true
+OR  `output = input1 ∨ input2` one or both are true
+
+NOT `output = ∼ input1` the output is opposite of the input
+
+![alt oneGate.png](img/oneGate.PNG)
+<br>
+
+![alt twoGateSeries](img/twoGateSeries.PNG)
+<br> 
+
+![alt twoGatesparallel](img/twoGateParallel.PNG)
+<br>
+
+![alt threeGatesParallelAndSeries](img/threeGatesParallelAndSeries.PNG)
+<br>
+
+![alt Circuit1](img/Circuit-1.PNG)
+<br>
+
+![alt Circuit2](img/Circuit-2.PNG)
+<br>
+
+![alt AND](img/AND.PNG) AND `output = input1 ∧ input2` both are true
+<br>
+
+![alt OR](img/OR.PNG) OR  `output = input1 ∨ input2` one or both are true
+<br>
+
+![alt NOT](img/NOT.PNG) NOT `output = ∼ input1` the output is opposite of the input
