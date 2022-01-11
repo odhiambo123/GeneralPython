@@ -201,3 +201,171 @@ NOT `output = ∼ input1` the output is opposite of the input
 <br>
 
 ![alt NOT](img/NOT.PNG) NOT `output = ∼ input1` the output is opposite of the input
+
+#Libraries
+###Machine learning
+- [Scikit-Learn]()
+- [TensorFlow]()
+- [Pytorch]()
+- [Theano]()
+<br>
+### Web Development
+- [Django]()
+- [Flask]()
+- [Bottle]()
+- [Web2py]()
+- [Pyramid]()
+- [FastAPI]()
+<br>
+###Ethical Hacking
+- [IMPacket]()
+- [Cryptography]()
+- [Scapy]()
+- [pwntools]()
+- [Nmap]()
+<br>
+###Scraping
+- [Scrapy]()
+- [BeautifulSoup]()
+- [Selenium]()
+- [Requests]()
+- [PyRobot]()
+- [Newspaper3k]()
+<br>
+###Game Development
+- [Pygame]()
+- [Pyglet]()
+- [Cocos2d]()
+- [panda3D]()
+<br>
+###Image Processing
+- [Pillow]()
+- [Scikit-Image]()
+- [OpenCV]()
+- [Pytesseract]()
+<br>
+###Mobile Development
+- [Kivy]()
+- [BeeWare]()
+<br>
+###Data Science
+- [Scikit-Learn]()
+- [Theano]()
+- [Scipy]()
+- [Numpy]()
+- [Pandas]()
+- [Scrapy]()
+<br>
+###Desktop Applications
+- [wxPython]()
+- [PyQT5]()
+- [Pyside]()
+- [PySimpleGUI]()
+<br>
+###BioInformatics
+- [BioPython]()
+- [Prody]()
+- [SciKit-Bio]()
+- [Pyensembl]()
+- [PySB]()
+<br>
+###Mathematics and Computation
+- [Theano]()
+- [Scipy]()
+- [Numpy]()
+- [Statsmodels]()
+- [CuPy]()
+- [SymPy]()
+<br>
+###Testing and Automation
+- [Robotframework]()
+- [Automate]()
+- [Pytest]()
+- [Nose]()
+- []()
+<br>
+###Astronomy
+- [SpacePy]()
+- [Astropy]()
+- [SunPy]()
+<br>
+###Data Visualization
+- [Matplotlib]()
+- [Seaborn]()
+- [Plotly]()
+- [Bokeh]()
+- [Pydot]()
+<br>
+###Robotics
+- [RobotFramework]()
+- [Pydy]()
+- [PyBotics]()
+<br>
+###Cryptocurrency
+- [BitCoinLib]()
+- [CCXT]()
+<br>
+###Data Mining
+- [Scrapy]()
+- [BeautifulSoup]()
+- [Selenium]()
+<br>
+###Computer Vision
+- [OpenCV]()
+- [Mahotas]()
+- [SimpleCV]()
+<br>
+###Quantum Computing
+  - [QuTiP]()
+  - [PyQuil]()
+  - [Cirq]()
+  - [Qiskit]()
+  - <br>
+###Statistical Computation
+- [Pandas]()
+- [Statsmodels]()
+<br>
+###Command Line Applications
+- [Typer]()
+- [cmd2]()
+- [Click]()
+<br>
+###Signal Processing
+- [Scipy]()
+- [PyWavelets]()
+<br>
+###Interactive Computing
+- [IPython](https://ipython.org/)
+- [Jupyter Notebook](https://jupyter.org/)
+<br>
+###Deep Learning
+- [TensorFlow](https://www.tensorflow.org/learn)
+- [PyTorch](https://pytorch.org/)
+- [Keras](https://keras.io/)
+- [Chainer](https://chainer.org/)
+<br>
+###Geographic Processing
+- [GeoPandas](https://geopandas.org/en/stable/)
+- [Shapely](https://shapely.readthedocs.io/en/stable/project.html)
+<br>
+###Sciences
+- [Scipy](https://scipy.org/)
+- [Statsmodels](https://www.statsmodels.org/stable/index.html)
+- [CuPy](https://cupy.dev/)
+- [PsychoPy](https://www.psychopy.org/)
+<br>
+###Natural Language Processing
+- [NLTK](https://www.nltk.org/)
+- [TextBlob](https://pypi.org/project/textblob/)
+- [Stanza](https://stanfordnlp.github.io/stanza/)
+- [spaCY](https://spacy.io/)
+- [Gensim](https://pypi.org/project/gensim/)
+<br>
+###Cybersecurity
+- [IMPacket](https://www.kali.org/tools/impacket/)
+- [Cryptography](https://cryptography.io/en/latest/)
+- [Scrapy](https://pypi.org/project/Scrapy3/)
+- [Twisted](https://pypi.org/project/Twisted/)
+- [Faker](https://faker.readthedocs.io/en/master/)
+
+- 
