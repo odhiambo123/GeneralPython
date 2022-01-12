@@ -362,25 +362,29 @@ NOT `output = ∼ input1` the output is opposite of the input
 <br>
 
 ###Deep Learning
+
 - [TensorFlow](https://www.tensorflow.org/learn)
 - [PyTorch](https://pytorch.org/)
 - [Keras](https://keras.io/)
 - [Chainer](https://chainer.org/)
 <br>
 
-###Geographic Processing
+### Geographic Processing
+
 - [GeoPandas](https://geopandas.org/en/stable/)
 - [Shapely](https://shapely.readthedocs.io/en/stable/project.html)
 <br>
 
-###Sciences
+### Sciences
+
 - [Scipy](https://scipy.org/)
 - [Statsmodels](https://www.statsmodels.org/stable/index.html)
 - [CuPy](https://cupy.dev/)
 - [PsychoPy](https://www.psychopy.org/)
 <br>
 
-###Natural Language Processing
+### Natural Language Processing
+
 - [NLTK](https://www.nltk.org/)
 - [TextBlob](https://pypi.org/project/textblob/)
 - [Stanza](https://stanfordnlp.github.io/stanza/)
@@ -388,7 +392,8 @@ NOT `output = ∼ input1` the output is opposite of the input
 - [Gensim](https://pypi.org/project/gensim/)
 <br>
 
-###Cybersecurity
+### Cybersecurity
+
 - [IMPacket](https://www.kali.org/tools/impacket/)
 - [Cryptography](https://cryptography.io/en/latest/)
 - [Scrapy](https://pypi.org/project/Scrapy3/)
