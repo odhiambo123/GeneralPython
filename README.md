@@ -17,7 +17,6 @@ The biggest challenge we have today is finding the balance between chasing the m
   - it can be both either functional and object-oriented
   - it is ideal for data mining and data facilitation
   - good community support
-  - 
 - Installation and setup:
   - Download [anaconda](https://www.anaconda.com/products/individual)
 -Data Type:
@@ -200,7 +199,8 @@ NOT `output = ∼ input1` the output is opposite of the input
 ![alt OR](img/OR.PNG) OR  `output = input1 ∨ input2` one or both are true
 <br>
 
-![alt NOT](img/NOT.PNG) NOT `output = ∼ input1` the output is opposite of the input
+![alt NOT](img/NOT.PNG) NOT `output = ∼ input1` the output is opposite of the input.
+<br>
 
 #Libraries
 ###Machine learning
@@ -209,6 +209,7 @@ NOT `output = ∼ input1` the output is opposite of the input
 - [Pytorch]()
 - [Theano]()
 <br>
+
 ### Web Development
 - [Django]()
 - [Flask]()
@@ -217,6 +218,7 @@ NOT `output = ∼ input1` the output is opposite of the input
 - [Pyramid]()
 - [FastAPI]()
 <br>
+
 ###Ethical Hacking
 - [IMPacket]()
 - [Cryptography]()
@@ -224,6 +226,7 @@ NOT `output = ∼ input1` the output is opposite of the input
 - [pwntools]()
 - [Nmap]()
 <br>
+
 ###Scraping
 - [Scrapy]()
 - [BeautifulSoup]()
@@ -232,22 +235,26 @@ NOT `output = ∼ input1` the output is opposite of the input
 - [PyRobot]()
 - [Newspaper3k]()
 <br>
+
 ###Game Development
 - [Pygame]()
 - [Pyglet]()
 - [Cocos2d]()
 - [panda3D]()
 <br>
+
 ###Image Processing
 - [Pillow]()
 - [Scikit-Image]()
 - [OpenCV]()
 - [Pytesseract]()
 <br>
+
 ###Mobile Development
 - [Kivy]()
 - [BeeWare]()
 <br>
+
 ###Data Science
 - [Scikit-Learn]()
 - [Theano]()
@@ -256,12 +263,14 @@ NOT `output = ∼ input1` the output is opposite of the input
 - [Pandas]()
 - [Scrapy]()
 <br>
+
 ###Desktop Applications
 - [wxPython]()
 - [PyQT5]()
 - [Pyside]()
 - [PySimpleGUI]()
 <br>
+
 ###BioInformatics
 - [BioPython]()
 - [Prody]()
@@ -269,6 +278,7 @@ NOT `output = ∼ input1` the output is opposite of the input
 - [Pyensembl]()
 - [PySB]()
 <br>
+
 ###Mathematics and Computation
 - [Theano]()
 - [Scipy]()
@@ -277,6 +287,7 @@ NOT `output = ∼ input1` the output is opposite of the input
 - [CuPy]()
 - [SymPy]()
 <br>
+
 ###Testing and Automation
 - [Robotframework]()
 - [Automate]()
@@ -284,11 +295,13 @@ NOT `output = ∼ input1` the output is opposite of the input
 - [Nose]()
 - []()
 <br>
+
 ###Astronomy
 - [SpacePy]()
 - [Astropy]()
 - [SunPy]()
 <br>
+
 ###Data Visualization
 - [Matplotlib]()
 - [Seaborn]()
@@ -296,64 +309,77 @@ NOT `output = ∼ input1` the output is opposite of the input
 - [Bokeh]()
 - [Pydot]()
 <br>
+
 ###Robotics
 - [RobotFramework]()
 - [Pydy]()
 - [PyBotics]()
 <br>
+
 ###Cryptocurrency
 - [BitCoinLib]()
 - [CCXT]()
 <br>
+
 ###Data Mining
 - [Scrapy]()
 - [BeautifulSoup]()
 - [Selenium]()
 <br>
+
 ###Computer Vision
 - [OpenCV]()
 - [Mahotas]()
 - [SimpleCV]()
 <br>
+
 ###Quantum Computing
   - [QuTiP]()
   - [PyQuil]()
   - [Cirq]()
-  - [Qiskit]()
-  - <br>
+  - [Qiskit](https://qiskit.org/)
+<br>
+  
 ###Statistical Computation
-- [Pandas]()
-- [Statsmodels]()
+- [Pandas](https://pandas.pydata.org/)
+- [Statsmodels](https://www.statsmodels.org/stable/index.html)
 <br>
+
 ###Command Line Applications
-- [Typer]()
-- [cmd2]()
-- [Click]()
+- [Typer](https://typer.tiangolo.com/tutorial/first-steps/)
+- [cmd2](https://cmd2.readthedocs.io/en/stable/)
+- [Click](https://click.palletsprojects.com/en/7.x/)
 <br>
+
 ###Signal Processing
-- [Scipy]()
-- [PyWavelets]()
+- [Scipy](https://docs.scipy.org/doc/scipy/reference/tutorial/index.html)
+- [PyWavelets](https://pywavelets.readthedocs.io/en/latest/)
 <br>
+
 ###Interactive Computing
 - [IPython](https://ipython.org/)
 - [Jupyter Notebook](https://jupyter.org/)
 <br>
+
 ###Deep Learning
 - [TensorFlow](https://www.tensorflow.org/learn)
 - [PyTorch](https://pytorch.org/)
 - [Keras](https://keras.io/)
 - [Chainer](https://chainer.org/)
 <br>
+
 ###Geographic Processing
 - [GeoPandas](https://geopandas.org/en/stable/)
 - [Shapely](https://shapely.readthedocs.io/en/stable/project.html)
 <br>
+
 ###Sciences
 - [Scipy](https://scipy.org/)
 - [Statsmodels](https://www.statsmodels.org/stable/index.html)
 - [CuPy](https://cupy.dev/)
 - [PsychoPy](https://www.psychopy.org/)
 <br>
+
 ###Natural Language Processing
 - [NLTK](https://www.nltk.org/)
 - [TextBlob](https://pypi.org/project/textblob/)
@@ -361,6 +387,7 @@ NOT `output = ∼ input1` the output is opposite of the input
 - [spaCY](https://spacy.io/)
 - [Gensim](https://pypi.org/project/gensim/)
 <br>
+
 ###Cybersecurity
 - [IMPacket](https://www.kali.org/tools/impacket/)
 - [Cryptography](https://cryptography.io/en/latest/)
