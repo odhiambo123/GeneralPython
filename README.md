@@ -219,7 +219,8 @@ NOT `output = ∼ input1` the output is opposite of the input
 - [FastAPI]()
 <br>
 
-###Ethical Hacking
+### Ethical Hacking
+
 - [IMPacket]()
 - [Cryptography]()
 - [Scapy]()
@@ -227,7 +228,8 @@ NOT `output = ∼ input1` the output is opposite of the input
 - [Nmap]()
 <br>
 
-###Scraping
+### Scraping
+
 - [Scrapy]()
 - [BeautifulSoup]()
 - [Selenium]()
@@ -236,26 +238,30 @@ NOT `output = ∼ input1` the output is opposite of the input
 - [Newspaper3k]()
 <br>
 
-###Game Development
+### Game Development
+
 - [Pygame]()
 - [Pyglet]()
 - [Cocos2d]()
 - [panda3D]()
 <br>
 
-###Image Processing
+### Image Processing
+
 - [Pillow]()
 - [Scikit-Image]()
 - [OpenCV]()
 - [Pytesseract]()
 <br>
 
-###Mobile Development
+### Mobile Development
+
 - [Kivy]()
 - [BeeWare]()
 <br>
 
-###Data Science
+### Data Science
+
 - [Scikit-Learn]()
 - [Theano]()
 - [Scipy]()
@@ -264,14 +270,16 @@ NOT `output = ∼ input1` the output is opposite of the input
 - [Scrapy]()
 <br>
 
-###Desktop Applications
+### Desktop Applications
+
 - [wxPython]()
 - [PyQT5]()
 - [Pyside]()
 - [PySimpleGUI]()
 <br>
 
-###BioInformatics
+### BioInformatics
+
 - [BioPython]()
 - [Prody]()
 - [SciKit-Bio]()
@@ -279,7 +287,8 @@ NOT `output = ∼ input1` the output is opposite of the input
 - [PySB]()
 <br>
 
-###Mathematics and Computation
+### Mathematics and Computation
+
 - [Theano]()
 - [Scipy]()
 - [Numpy]()
@@ -288,7 +297,8 @@ NOT `output = ∼ input1` the output is opposite of the input
 - [SymPy]()
 <br>
 
-###Testing and Automation
+### Testing and Automation
+
 - [Robotframework]()
 - [Automate]()
 - [Pytest]()
@@ -296,13 +306,15 @@ NOT `output = ∼ input1` the output is opposite of the input
 - []()
 <br>
 
-###Astronomy
+### Astronomy
+
 - [SpacePy]()
 - [Astropy]()
 - [SunPy]()
 <br>
 
-###Data Visualization
+### Data Visualization
+
 - [Matplotlib]()
 - [Seaborn]()
 - [Plotly]()
@@ -310,58 +322,67 @@ NOT `output = ∼ input1` the output is opposite of the input
 - [Pydot]()
 <br>
 
-###Robotics
+### Robotics
+
 - [RobotFramework]()
 - [Pydy]()
 - [PyBotics]()
 <br>
 
-###Cryptocurrency
+### Cryptocurrency
+
 - [BitCoinLib]()
 - [CCXT]()
 <br>
 
-###Data Mining
+### Data Mining
+
 - [Scrapy]()
 - [BeautifulSoup]()
 - [Selenium]()
 <br>
 
-###Computer Vision
+### Computer Vision
+
 - [OpenCV]()
 - [Mahotas]()
 - [SimpleCV]()
 <br>
 
-###Quantum Computing
+### Quantum Computing
+
   - [QuTiP]()
   - [PyQuil]()
   - [Cirq]()
   - [Qiskit](https://qiskit.org/)
 <br>
   
-###Statistical Computation
+### Statistical Computation
+
 - [Pandas](https://pandas.pydata.org/)
 - [Statsmodels](https://www.statsmodels.org/stable/index.html)
 <br>
 
-###Command Line Applications
+### Command Line Applications
+
 - [Typer](https://typer.tiangolo.com/tutorial/first-steps/)
 - [cmd2](https://cmd2.readthedocs.io/en/stable/)
 - [Click](https://click.palletsprojects.com/en/7.x/)
 <br>
 
-###Signal Processing
+### Signal Processing
+
 - [Scipy](https://docs.scipy.org/doc/scipy/reference/tutorial/index.html)
 - [PyWavelets](https://pywavelets.readthedocs.io/en/latest/)
 <br>
 
-###Interactive Computing
+### Interactive Computing
+
 - [IPython](https://ipython.org/)
 - [Jupyter Notebook](https://jupyter.org/)
 <br>
 
-###Deep Learning
+### Deep Learning
 
 - [TensorFlow](https://www.tensorflow.org/learn)
 - [PyTorch](https://pytorch.org/)
