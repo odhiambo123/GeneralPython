@@ -421,4 +421,13 @@ NOT `output = ∼ input1` the output is opposite of the input
 - [Twisted](https://pypi.org/project/Twisted/)
 - [Faker](https://faker.readthedocs.io/en/master/)
 
+## certifications
+ - [Terraform](https://learn.hashicorp.com/collections/terraform/certification)
+ - [Kubernetes](https://kubernetes.io/docs/tutorials/)
+ - [Orchestration](https://www.redhat.com/en/topics/automation/what-is-orchestration)
+
+##references
+- [Digital circuits and Number Systems](https://www.math.umd.edu/~immortal/CMSC250/notes/notes_2.pdf)
+- [programming and machine organization](https://cs61.seas.harvard.edu/site/2021/)
+- [Introduction to Computing systems](https://users.ncsa.illinois.edu/kindr/teaching/ece190_sp11/lectures/)
 - 
