@@ -175,22 +175,22 @@ OR  `output = input1 ∨ input2` one or both are true
 
 NOT `output = ∼ input1` the output is opposite of the input
 
-![alt oneGate.png](/img/oneGate.PNG)
+![alt oneGate.png](https://github.com/odhiambo123/smoothpy/tree/main/img/oneGate.PNG)
 <br>
 
-![alt twoGateSeries](/img/twoGateSeries.PNG)
+![alt twoGateSeries](https://github.com/odhiambo123/smoothpy/tree/main/img/twoGateSeries.PNG)
 <br> 
 
-![alt twoGatesparallel](/img/twoGateParallel.PNG)
+![alt twoGatesparallel](https://github.com/odhiambo123/smoothpy/tree/main/img/twoGateParallel.PNG)
 <br>
 
-![alt threeGatesParallelAndSeries](/img/threeGatesParallelAndSeries.PNG)
+![alt threeGatesParallelAndSeries](https://github.com/odhiambo123/smoothpy/tree/main/img/threeGatesParallelAndSeries.PNG)
 <br>
 
-![alt Circuit1](/img/Circuit-1.PNG)
+![alt Circuit1](https://github.com/odhiambo123/smoothpy/tree/main/img/Circuit-1.PNG)
 <br>
 
-![alt Circuit2](/img/Circuit-2.PNG)
+![alt Circuit2](https://github.com/odhiambo123/smoothpy/tree/main/img/Circuit-2.PNG)
 <br>
 
 ![alt AND](/img/AND.PNG) AND `output = input1 ∧ input2` both are true
