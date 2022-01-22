@@ -432,3 +432,7 @@ NOT `output = ∼ input1` the output is opposite of the input
 - [programming and machine organization](https://cs61.seas.harvard.edu/site/2021/)
 - [Introduction to Computing systems](https://users.ncsa.illinois.edu/kindr/teaching/ece190_sp11/lectures/)
 - 
+### Others
+- [SQL Alchemy](https://www.sqlalchemy.org/)
+- [Click CLI](https://click.palletsprojects.com/en/8.0.x/)
+- []
