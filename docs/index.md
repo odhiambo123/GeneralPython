@@ -175,7 +175,7 @@ OR  `output = input1 ∨ input2` one or both are true
 
 NOT `output = ∼ input1` the output is opposite of the input
 
-![alt oneGate.png](https://github.com/odhiambo123/smoothpy/tree/main/img/oneGate.PNG)
+![alt oneGate.png](https://github.com/odhiambo123/smoothpy/blob/main/img/oneGate.PNG?raw=true)
 <br>
 
 ![alt twoGateSeries](https://github.com/odhiambo123/smoothpy/tree/main/img/twoGateSeries.PNG)
