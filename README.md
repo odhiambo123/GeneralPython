@@ -211,148 +211,149 @@ NOT `output = ∼ input1` the output is opposite of the input
 <br>
 
 ### Web Development
-- [Django]()
-- [Flask]()
-- [Bottle]()
-- [Web2py]()
-- [Pyramid]()
-- [FastAPI]()
+- [Django](https://www.djangoproject.com/)
+- [Flask](https://palletsprojects.com/p/flask/)
+- [Gunicorn](https://gunicorn.org/)
+- [Celery](https://docs.celeryproject.org/en/stable/getting-started/introduction.html)
+- [Bottle](https://bottlepy.org/docs/dev/)
+- [Web2py](http://www.web2py.com/books/default/chapter/29/01/introduction)
+- [Pyramid](https://trypyramid.com/)
+- [FastAPI](https://fastapi.tiangolo.com/)
 <br>
 
 ### Ethical Hacking
 
-- [IMPacket]()
-- [Cryptography]()
-- [Scapy]()
-- [pwntools]()
-- [Nmap]()
+- [IMPacket](https://www.secureauth.com/labs/open-source-tools/impacket/)
+- [Cryptography](https://cryptography.io/en/latest/)
+- [Scapy](https://scapy.readthedocs.io/en/latest/)
+- [pwntools](https://python3-pwntools.readthedocs.io/en/latest/)
+- [Nmap](https://nmap.readthedocs.io/en/latest/nmap.html)
 <br>
 
 ### Scraping
 
-- [Scrapy]()
-- [BeautifulSoup]()
-- [Selenium]()
-- [Requests]()
-- [PyRobot]()
-- [Newspaper3k]()
+- [Scrapy](https://docs.scrapy.org/en/latest/intro/overview.html)
+- [BeautifulSoup](https://beautiful-soup-4.readthedocs.io/en/latest/)
+- [Selenium](https://selenium-python.readthedocs.io/)
+- [Requests](https://docs.python-requests.org/en/master/index.html)
+- [PyRobot](https://pyrobot.org/docs/overview)
+- [Newspaper3k](https://newspaper.readthedocs.io/en/latest/)
 <br>
 
 ### Game Development
 
-- [Pygame]()
-- [Pyglet]()
-- [Cocos2d]()
-- [panda3D]()
+- [Pygame](https://www.pygame.org/wiki/about)
+- [Pyglet](https://docs.pyglet.org/en/latest/modules/pyglet.html)
+- [Cocos2d](https://docs.cocos.com/creator/manual/en/)
+- [panda3D](https://docs.panda3d.org/1.10/python/index)
 <br>
 
 ### Image Processing
 
-- [Pillow]()
-- [Scikit-Image]()
-- [OpenCV]()
-- [Pytesseract]()
+- [Pillow](https://pillow.readthedocs.io/en/stable/)
+- [Scikit-Image](https://scikit-image.org/)
+- [OpenCV](https://docs.opencv.org/4.x/d1/dfb/intro.html)
+- [Pytesseract](https://github.com/madmaze/pytesseract)
 <br>
 
 ### Mobile Development
 
-- [Kivy]()
-- [BeeWare]()
+- [Kivy](https://kivy.org/doc/stable/)
+- [BeeWare](https://beeware.org/)
 <br>
 
 ### Data Science
 
-- [Scikit-Learn]()
-- [Theano]()
-- [Scipy]()
-- [Numpy]()
-- [Pandas]()
-- [Scrapy]()
+- [Scikit-Learn](https://scikit-learn.org/stable/index.html)
+- [Theano](https://en.wikipedia.org/wiki/Theano_(software))
+- [Scipy](https://scipy.org/)
+- [Numpy](https://numpy.org/)
+- [Pandas](https://pandas.pydata.org/)
+- [Scrapy](https://docs.scrapy.org/en/latest/intro/tutorial.html)
 <br>
 
 ### Desktop Applications
 
-- [wxPython]()
-- [PyQT5]()
-- [Pyside]()
-- [PySimpleGUI]()
+- [wxPython](https://wiki.wxpython.org/)
+- [PyQT5](https://www.riverbankcomputing.com/software/pyqt/)
+- [Pyside](https://wiki.qt.io/Qt_for_Python)
+- [PySimpleGUI](https://pysimplegui.readthedocs.io/en/latest/)
 <br>
 
 ### BioInformatics
 
-- [BioPython]()
-- [Prody]()
-- [SciKit-Bio]()
-- [Pyensembl]()
-- [PySB]()
+- [BioPython](https://biopython.org/)
+- [ProDy](http://prody.csb.pitt.edu/)
+- [SciKit-Bio](http://scikit-bio.org/)
+- [Pyensembl](https://pyensembl.readthedocs.io/en/latest/pyensembl.html)
+- [PySB](https://pysb.org/)
 <br>
 
 ### Mathematics and Computation
 
-- [Theano]()
-- [Scipy]()
-- [Numpy]()
-- [Statsmodels]()
-- [CuPy]()
-- [SymPy]()
+- [Theano](https://www.tutorialspoint.com/theano/index.htm)
+- [Scipy](https://docs.scipy.org/doc/scipy/reference/)
+- [Numpy](https://numpy.org/)
+- [Statsmodels](https://www.statsmodels.org/stable/index.html)
+- [CuPy](https://cupy.dev/)
+- [SymPy](https://www.sympy.org/en/index.html)
 <br>
 
 ### Testing and Automation
 
-- [Robotframework]()
-- [Automate]()
-- [Pytest]()
-- [Nose]()
-- []()
+- [Robotframework](https://robotframework.org/)
+- [Automate](https://automate.io/)
+- [Pytest](https://docs.pytest.org/en/6.2.x/)
+- [Nose](https://nose.readthedocs.io/en/latest/)
 <br>
 
 ### Astronomy
 
-- [SpacePy]()
-- [Astropy]()
-- [SunPy]()
+- [SpacePy](https://github.com/spacepy/spacepy)
+- [Astropy](https://docs.astropy.org/en/stable/)
+- [SunPy](https://docs.sunpy.org/en/stable/)
 <br>
 
 ### Data Visualization
 
-- [Matplotlib]()
-- [Seaborn]()
-- [Plotly]()
-- [Bokeh]()
-- [Pydot]()
+- [Matplotlib](https://matplotlib.org/stable/index.html)
+- [Seaborn](https://seaborn.pydata.org/)
+- [Plotly](https://plotly.com/)
+- [Bokeh](https://bokeh.org/)
+- [Pydot](https://github.com/pydot/pydot)
 <br>
 
 ### Robotics
 
-- [RobotFramework]()
-- [Pydy]()
-- [PyBotics]()
+- [RobotFramework](https://robotframework.org/)
+- [Pydy](https://www.pydy.org/)
+- [PyBotics](https://pybotics.readthedocs.io/en/latest/)
 <br>
 
 ### Cryptocurrency
 
-- [BitCoinLib]()
-- [CCXT]()
+- [BitCoinLib](https://bitcoinlib.readthedocs.io/en/latest/index.html)
+- [CCXT](https://docs.ccxt.com/en/latest/manual.html)
 <br>
 
 ### Data Mining
 
-- [Scrapy]()
-- [BeautifulSoup]()
-- [Selenium]()
+- [Scrapy](https://scrapy.org/)
+- [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+- [Selenium](https://www.selenium.dev/documentation/)
 <br>
 
 ### Computer Vision
 
-- [OpenCV]()
-- [Mahotas]()
-- [SimpleCV]()
+- [OpenCV](https://opencv.org/opencv-free-course/)
+- [Mahotas](https://mahotas.readthedocs.io/en/latest/)
+- [SimpleCV](http://simplecv.org/)
 <br>
 
 ### Quantum Computing
 
-  - [QuTiP]()
-  - [PyQuil]()
+  - [QuTiP](https://qutip.org/)
+  - [PyQuil](https://pyquil-docs.rigetti.com/en/stable/compiler.html)
   - [Cirq]()
   - [Qiskit](https://qiskit.org/)
 <br>
