@@ -54,11 +54,12 @@ The biggest challenge we have today is finding the balance between chasing the m
           - left-hand side can be replaced by the right-hand expression
           - syntactical correct sentences follow the above-mentioned order.
           - if a parse tree cannot be built to show the sentence derives from the production rules, the sentence is deemed syntactically incorrect.
-    - ####Grammar:
+          
+  ####  Grammar:
       - A sentence can be well-formed but still meaningless.
       - Semantics will define the meaning.
     - [sources](https://docs.python.org/3/reference/introduction.html#implementations)
-      - ####Example
+  #### Example
         - A grammar that recognizes exactly two strings `things are getting better` and `things are getting worse`
     
         ```
