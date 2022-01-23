@@ -1,9 +1,5 @@
-##Why?
-Because I wanted to learn...without having to rush the process. <br>
-
-This is my treasure I'm willing to share. I have included all the references for the material used here so feel free to go dig deeper and find out why your code does what it does.
-The biggest challenge we have today is finding the balance between chasing the money and producing real quality material for consumption. if you want to learn, you are going to have to find that balance and dig deeper to find meaning in what you do and what is really happening under the hood.
-
+## Why?
+I'm figuring it out as I go, Let's go 🦖 <br>
 ## Python:
 - Is general purpose programing language used for:
   - Web development server side
@@ -98,17 +94,17 @@ make     |      |      |      |     |      |      |      |
 "Ford" " , " "Toyota" ", " "BMW" ", " "Toyota" ", " "Ford"
 
 ```
-####Grammar for Empty language
+#### Grammar for Empty language
 `empty ::= `
 
-####Grammar for "olingthi"
+#### Grammar for "olingthi"
 - "olingthi" only takes an empty string as the only valid sentence in this language.
 
  `olingthi ::= ""`
  
 - notice the difference between empty language and the empty string.
 
-####Grammar for a letter language
+#### Grammar for a letter language
 
   `letter ::= "a" | "b" | "c" | "d" | ... | "z"`
 
@@ -120,7 +116,7 @@ letter ::= "d"
 ...
 letter ::= "z"
 ```
-####Defining a grammar for the word language
+#### Defining a grammar for the word language
   `word ::= letter | word letter`
 
 In this grammar featuring recursive rule, "water" is in this language
@@ -137,17 +133,17 @@ In this grammar featuring recursive rule, "water" is in this language
 - learn the [shell](https://linuxcommand.org/lc3_learning_the_shell.php)
 - Bash Reference [Manual](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html)
 - 
-####Interpreter and its environment
+#### Interpreter and its environment
 - source files are treated as UTF-8 by default
 - to change from  default encoding use: `-*- coding: encoding -*-` replacing 'encoding' with one of the valid [codecs](https://docs.python.org/3/library/codecs.html#standard-encodings)
 - [Argument Passing](https://docs.python.org/3/tutorial/interpreter.html#argument-passing)
 - script's name and its arguments are converted into a list and stored in the `argv` variable inside the `sys`
 module `sys.argc[]`
 
-####Objects:
+#### Objects:
 - used for data abstraction in Python
 - abstraction is used as a productivity enhancer
-####Von Neumann model
+#### Von Neumann model
 - Is a form of computer organization based on the stored-program concept, it comprises the following components:
   - memory
   - CPU
@@ -203,8 +199,8 @@ NOT `output = ∼ input1` the output is opposite of the input
 ![alt NOT](img/NOT.PNG) NOT `output = ∼ input1` the output is opposite of the input.
 <br>
 
-#Libraries
-###Machine learning
+# Libraries.
+### Machine learning
 - [Scikit-Learn]()
 - [TensorFlow]()
 - [Pytorch]()
@@ -428,7 +424,7 @@ NOT `output = ∼ input1` the output is opposite of the input
  - [Kubernetes](https://kubernetes.io/docs/tutorials/)
  - [Orchestration](https://www.redhat.com/en/topics/automation/what-is-orchestration)
 
-##references
+## references
 - [Digital circuits and Number Systems](https://www.math.umd.edu/~immortal/CMSC250/notes/notes_2.pdf)
 - [programming and machine organization](https://cs61.seas.harvard.edu/site/2021/)
 - [Introduction to Computing systems](https://users.ncsa.illinois.edu/kindr/teaching/ece190_sp11/lectures/)
