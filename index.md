@@ -1,5 +1,3 @@
-## Why?
-I'm figuring it out as I go, Let's go 🦖 <br>
 ## Python:
 - Is general purpose programing language used for:
   - Web development server side
